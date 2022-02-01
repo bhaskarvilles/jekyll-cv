@@ -19,11 +19,13 @@ languages:
 education:
   - degree: B.pharm
     time: 2016-2020
-    university: Jawaharlal Nehru Technological University Ananthapuramu
+    university: Jawaharlal Nehru 
+                Technological University 
+                Ananthapuramu
 
   - Intermediate: +12 
     time: 2015-2016
-    university: Board of Intermediate Education A.P
+    university: BIEAP
 
 skills:
   - category: Backend
@@ -63,7 +65,9 @@ experience:
     time: 2019-Present
     company: Open-Source
     details: |
-      contribuing to many open source projects like Cactus, Cello, Besu - Hyper Ledger Foundation , IPFS, Ghidra (SRE) from NSA.
+      contribuing to many open source projects like 
+      Cactus, Cello, Besu - Hyper Ledger Foundation, 
+      IPFS, Ghidra (SRE) from NSA.
     technologies_used: | 
       Go, java, Typescript, C++
   
@@ -71,7 +75,9 @@ experience:
     time: 2019-Present
     company: FreeLancing
     details: |
-      Free lancing on reviewing of web applications and internet stuff for vulnerabilities and fixing them with latest patches.
+      Free lancing on reviewing of web applications
+      and internet stuff for vulnerabilities and 
+      fixing them with latest patches.
     technologies_used: | 
       Python, Tensorflow, Kali Linux, Burpsuite, Pentesting Tools
 
