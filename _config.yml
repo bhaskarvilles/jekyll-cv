@@ -1,8 +1,8 @@
 title: CV | A Bhaskara Ram
-description:  My CV.
-url: 
-baseurl: 
-theme_skin: blue
+description:  My Personal Curriculum Vitae/Resume
+url: bhaskarvilles.live
+baseurl: bhaskarvilles.live
+theme_skin: red
 
 sass:
   sass_dir: _sass
