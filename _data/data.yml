@@ -72,7 +72,7 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Developer
+  - role: Software Developer [open-source]
     time: 2019-Present
     company: Open-Source
     details: |
@@ -108,7 +108,13 @@ projects:
     details: Hyperledger Cactus aims to provide Decentralized, Secure and Adaptable Integration between Blockchain Networks. Hyperledger Cactus is currently undergoing a major refactoring effort to enable the desired to-be architecture which will enable plug-in based collaborative development to increase the breadth of use cases & Ledgers supported.
   - title: Ghidra
     link: https://github.com/NationalSecurityAgency/ghidra
-    details: Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra extension components and/or scripts using Java or Python.
+    details: Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. 
   - title: Cello
     link: https://github.com/hyperledger/cello
     details: Hyperledger Cello is a blockchain provision and operation system, which helps manage blockchain networks in an efficient way.
+  - title: File-Coin
+    link: https://filecoin.io
+    details: Filecoin is an open-source cloud storage marketplace, protocol, and incentive layer.
+  - title: My TIKI
+    link: https://mytiki.com
+    details: My Tiki is a open-source mobile blockchain platform that aims to provide services for users to choose which data to share with other service platform providers, thus making users to control their own data and sell their data for advertisements and analytics.
