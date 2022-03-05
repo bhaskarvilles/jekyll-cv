@@ -2,7 +2,7 @@ title: CV | A Bhaskara Ram
 description:  My Personal Curriculum Vitae/Resume
 url: 
 baseurl: 
-theme_skin: red
+theme_skin: blue
 
 sass:
   sass_dir: _sass
