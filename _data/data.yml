@@ -4,7 +4,7 @@ fork: false
 
 # Sidebar
 contact:
-  email: bhaskar@parrotsec.in
+  email: hey@bhaskar.email
   github: bhaskarvilles
   linkedin: bhaskarvilles
   phone: +919490470485
@@ -26,19 +26,19 @@ education:
     university: BIEAP
 
 skills:
-  - category: Backend
+  - category: Full Stack
     skill: 
       - Go
       - Rust
       - Ruby
       - MongoDB
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
       - Python
       - Javascript
-  - category: DevOps
+      - MongoDB
+      - Express.js
+      - React.js
+      - Node.js
+  - category: DevSecOps
     skill:
       - Docker
       - Kubernetes
@@ -49,12 +49,6 @@ skills:
       - Penetration Testing
       - Cyber Defence
       - Read Teaming
-  - category: Full Stack
-    skill:
-      - MongoDB
-      - Express.js
-      - React.js
-      - Node.js
   - category: Blockchain
     skill:
       - Ethereum 2.0
@@ -76,15 +70,15 @@ experience:
     time: 2019-Present
     company: Open-Source
     details: |
-      contribuing to many open source projects like 
+      Contribuing to many open source projects like 
       Cactus, Cello, Besu - Hyper Ledger Foundation, 
-      IPFS, Ghidra (SRE) from NSA, React from Meta
+      IPFS, Ghidra (SRE) from NSA, Filecoin, React from Meta
     technologies_used: | 
       Go, java, Typescript, C++
   
   - role: Security Researcher
     time: 2019-Present
-    company: FreeLancing
+    company: Free Lancing
     details: |
       Free lancing on reviewing of web applications
       and internet stuff for vulnerabilities and 
@@ -93,12 +87,12 @@ experience:
       Python, Bash, Kali Linux, Burpsuite, Ghidra and All Hacking Technoligies
 
 publications:
-  - title: Web3 Browsers for Decentralized Storage
-    link: "https://www.bhaskarvilles.com/post/web3-browsers-for-decentralized-storage"
+  - title: Blockchain Content
+    link: "https://bhaskarvilles.dev/categories/blockchain/"
     authors: Bhaskar
     
-  - title: The Backbone of Web3’s Mainstream Momentum
-    link: "https://www.bhaskarvilles.com/post/ipfs-in-2021-the-backbone-of-web3-s-mainstream-momentum"
+  - title: Web 3 and Decentralized Content
+    link: "https://www.bhaskarvilles.com"
     authors: Bhaskar
     
 
