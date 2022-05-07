@@ -72,7 +72,8 @@ experience:
     details: |
       Contribuing to many open source projects like 
       Cactus, Cello, Besu - Hyper Ledger Foundation, 
-      IPFS, Ghidra (SRE) from NSA, Filecoin, React from Meta
+      IPFS, Ghidra (SRE) from NSA, Filecoin, Cybersecurity
+      Infrastructure Security Agency (CISA).
     technologies_used: | 
       Go, java, Typescript, C++
   
@@ -97,15 +98,15 @@ publications:
     
 
 projects:
-  - title: Cactus 
-    link: https://github.com/hyperledger/cactus
+  - title: Hyperledger
+    link: https://github.com/hyperledger
     details: Hyperledger Cactus aims to provide Decentralized, Secure and Adaptable Integration between Blockchain Networks. Hyperledger Cactus is currently undergoing a major refactoring effort to enable the desired to-be architecture which will enable plug-in based collaborative development to increase the breadth of use cases & Ledgers supported.
   - title: Ghidra
     link: https://github.com/NationalSecurityAgency/ghidra
-    details: Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. 
-  - title: Cello
-    link: https://github.com/hyperledger/cello
-    details: Hyperledger Cello is a blockchain provision and operation system, which helps manage blockchain networks in an efficient way.
+    details: Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. It a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. 
+  - title: Malcolm
+    link: https://github.com/cisagov/malcolm
+    details: Malcolm is a powerful network traffic analysis tool suite maintained by CISA
   - title: File-Coin
     link: https://filecoin.io
     details: Filecoin is an open-source cloud storage marketplace, protocol, and incentive layer.
